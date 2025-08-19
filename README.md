@@ -51,7 +51,7 @@ HA and DRS Cluster Configuration <br/>
 
 *Caption: HA/DRS cluster settings in RegionA01-Comp01*
 <img src="https://i.imgur.com/qLxWozB.png" height="80%" width="80%" alt="vCenter Lab"/>
-<img src="https://i.imgur.com/ZZTxGY1.png" height="80%" width="80%" alt="vCenter Lab"/>
+<img src="https://i.imgur.com/V5SvxFe.png" height="80%" width="80%" alt="vCenter Lab"/>
 <br />
 <br />
 <p align="center">
