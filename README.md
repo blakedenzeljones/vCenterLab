@@ -71,6 +71,7 @@ VM Migration  <br/>
 - Migrated 3 VMs to another host in the cluster
 
 *Caption: Live VM migration in vSphere Client*
+
 <img src="https://i.imgur.com/k2f7dt0.png" height="80%" width="80%" alt="vCenter Lab"/>
 <br />
 <br />
@@ -83,6 +84,7 @@ Networking Configuration  <br/>
 
 *Caption: Configured vSwitch and port group settings*
 <img src="https://i.imgur.com/VMuQlFi.png" height="80%" width="80%" alt="vCenter Lab"/>
+
 <img src="https://i.imgur.com/mJqRZxh.png" height="80%" width="80%" alt="vCenter Lab"/>
 <br />
 <br />
